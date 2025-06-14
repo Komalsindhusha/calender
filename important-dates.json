@@ -1,0 +1,57 @@
+{
+  "schedule": [
+    {
+      "title": "temple",
+      "startTime": "6:30am",
+      "endTime": "9:30am",
+      "date": [27, 13]
+    },
+    {
+      "title": "Gym",
+      "startTime": "4:30pm",
+      "endTime": "6:30pm",
+      "date": [14, 18, 30]
+    },
+    {
+      "title": "Projectwork",
+      "startTime": "1:30pm",
+      "endTime": "3:00pm",
+      "date": [17,20]
+    }
+  ],
+  "importantDates": [
+    { "month": "January", "date": "1st", "event": "New Year's Day" },
+    { "month": "January", "date": "12th", "event": "National Youth Day" },
+    { "month": "January", "date": "15th", "event": "Army Day" },
+    { "month": "January", "date": "23rd", "event": "Netaji Subhas Chandra’s Birthday / Desh Prem Divas" },
+    { "month": "January", "date": "26th", "event": "Republic Day" },
+    { "month": "January", "date": "30th", "event": "Martyrs Day" },
+    { "month": "March", "date": "8th", "event": "International Women’s Day" },
+    { "month": "March", "date": "23rd", "event": "Martyrdom Day of Bhagat Singh" },
+    { "month": "March", "date": "Holi (Varies)", "event": "Holi - Festival of Colors" },
+    { "month": "March", "date": "Ugadi (Varies)", "event": "Ugadi - Telugu/Kannada New Year" },
+    { "month": "April", "date": "7th", "event": "World Health Day" },
+    { "month": "April", "date": "14th", "event": "Birth anniversary of Dr. Ambedkar" },
+    { "month": "April", "date": "22nd", "event": "World Earth Day" },
+    { "month": "May", "date": "1st", "event": "International Labour Day / May Day" },
+    { "month": "May", "date": "11th", "event": "Technology Day" },
+    { "month": "May", "date": "31st", "event": "No Tobacco Day" },
+    { "month": "June", "date": "5th", "event": "World Environment Day" },
+    { "month": "June", "date": "26th", "event": "International Day Against Drug Abuse" },
+    { "month": "July", "date": "11th", "event": "World Population Day" },
+    { "month": "August", "date": "15th", "event": "Independence Day" },
+    { "month": "September", "date": "5th", "event": "Teacher’s Day" },
+    { "month": "September", "date": "8th", "event": "International Literacy Day" },
+    { "month": "September", "date": "27th", "event": "World Tourism Day" },
+    { "month": "October", "date": "2nd", "event": "Gandhi Jayanti / International Day of Non-Violence" },
+    { "month": "October", "date": "8th", "event": "Air Force Day" },
+    { "month": "October", "date": "Diwali (Varies)", "event": "Diwali - Festival of Lights" },
+    { "month": "October", "date": "24th", "event": "United Nations Day" },
+    { "month": "November", "date": "14th", "event": "Children’s Day" },
+    { "month": "November", "date": "26th", "event": "Constitution Day" },
+    { "month": "December", "date": "1st", "event": "World AIDS Day" },
+    { "month": "December", "date": "10th", "event": "Human Rights Day" },
+    { "month": "December", "date": "14th", "event": "National Energy Conservation Day" },
+    { "month": "December", "date": "25th", "event": "Christmas Day" }
+  ]
+}
